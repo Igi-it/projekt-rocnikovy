@@ -2,3 +2,12 @@ h1 {
     text-decoration: underline;
   }
   
+body {
+      background-color: black;
+  }
+ 
+div.gallery {
+    
+    float: left;
+    width: 50%;
+}
